@@ -3,3 +3,7 @@ numpy~=1.23.5
 matplotlib~=3.7.2
 d2l~=1.0.3
 tqdm~=4.67.1
+pandas~=2.0.3
+scikit-learn~=1.7.2
+torchvision~=0.23.0+cu129
+pillow~=11.3.0
